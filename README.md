@@ -1,4 +1,3 @@
-This is a comprehensive, professional GitHub README designed to showcase the project to both recruiters (who want to see impact) and engineers (who want to see technical depth).
 
 ***
 
